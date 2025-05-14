@@ -1,4 +1,5 @@
 Análise de Dados de Vendas - Meganium Gaming Consoles
+
 Este repositório contém análises estratégicas baseadas em dados de vendas dos consoles Meganium, incluindo insights sobre desempenho de produtos, logística, comportamento do consumidor e recomendações para otimização.
 
 📌 Conteúdo do Repositório
