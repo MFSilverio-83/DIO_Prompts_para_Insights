@@ -1,0 +1,9 @@
+Boa tarde, tudo bem?
+
+Estou realizando um trabalho e preciso do auxilio de um analista de dados.
+
+Eu atuo com um auxiliar de vendas numa fabricante de console de games. Nós produzimos os aparelhos e repassamos para que sejam vendidos por lojas parceiras.
+
+Recebi de cada loja uma planilha com dados diversos, fiz a unificação destas em uma única planilha com os dados das vendas destas lojas. Num primeiro momento quero que faça uma análise dessa planilha e verifique os pontos mais relevantes que devem ser considerados pela fabricante.
+
+Esta planilha segue como anexo.
