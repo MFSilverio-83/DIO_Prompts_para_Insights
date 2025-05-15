@@ -9,12 +9,15 @@ Dados brutos unificados das vendas em lojas parceiras (AliExpress, Etsy, Shopee)
 Relatório de Análise (PDFs)
 
 🔍 Principais Insights
+
 1_Insight geral: Análise completa do relatório com insights diversos.
 
 🎮 Produtos Mais Populares por País
+
 2_Mais populares por país: Informações com os produtos mais vendidos em cada País.
 
 🚚 Recomendações de Logística
+
 3_Melhoria em transporte e logística: Otimização de logística e transporte.
 
 🚀 Como Usar Este Repositório
